@@ -765,8 +765,8 @@ print(emp2)
 #emp1.email='hassan@gmail.com'
 #emp1.pay=5000
 
-#emp2.first='Ali'
-#emp2.last='Farooq'
+#emp2.first='Kaleem'
+#emp2.last='Tayyah'
 #emp2.email='faq@gmail.com'
 #emp2.pay=2000
 
